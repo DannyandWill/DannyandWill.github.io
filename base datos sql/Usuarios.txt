@@ -1,0 +1,3 @@
+Nombre	 Email			Contraseña 	Rol
+Admin    admin@example.com	admin		Administrador
+Cliente	 cliente@gmail.com	cliente		Cliente
